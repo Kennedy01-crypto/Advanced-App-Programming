@@ -1,0 +1,14 @@
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\bin\Debug\net9.0-windows\LibraryApp.exe
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\bin\Debug\net9.0-windows\LibraryApp.deps.json
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\bin\Debug\net9.0-windows\LibraryApp.runtimeconfig.json
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\bin\Debug\net9.0-windows\LibraryApp.dll
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\bin\Debug\net9.0-windows\LibraryApp.pdb
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\obj\Debug\net9.0-windows\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\obj\Debug\net9.0-windows\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\obj\Debug\net9.0-windows\LibraryApp.AssemblyInfo.cs
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\obj\Debug\net9.0-windows\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\obj\Debug\net9.0-windows\LibraryApp.dll
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\obj\Debug\net9.0-windows\refint\LibraryApp.dll
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\obj\Debug\net9.0-windows\LibraryApp.pdb
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\obj\Debug\net9.0-windows\LibraryApp.genruntimeconfig.cache
+C:\Users\NZIOKA E M\Desktop\Question-one\LibraryApp\obj\Debug\net9.0-windows\ref\LibraryApp.dll
