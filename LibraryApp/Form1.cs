@@ -46,7 +46,7 @@ namespace LibraryApp
             Button btnShow = new Button() { Text = "Show Books", Left = 120, Top = 180, Width = 100 };
             btnShow.Click += BtnShow_Click;
 
-            // Updated ListView for a neater display
+            // ListView for a neat display
             lstBooks = new ListView()
             {
                 Left = 10,
@@ -58,14 +58,14 @@ namespace LibraryApp
                 GridLines = true       
             };
 
-            // Add columns to ListView
+            // Adding columns to ListView
             lstBooks.Columns.Add("Title", 120);
             lstBooks.Columns.Add("Author", 100);
             lstBooks.Columns.Add("Price ($)", 80);
             lstBooks.Columns.Add("Book #", 80);
             lstBooks.Columns.Add("Copies", 60);
 
-            // Add UI components to the form
+            // Adding UI components to the form
             this.Controls.Add(lblTitle);
             this.Controls.Add(txtTitle);
             this.Controls.Add(lblAuthor);
