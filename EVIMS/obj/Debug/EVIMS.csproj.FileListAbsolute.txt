@@ -1,0 +1,10 @@
+C:\Users\Jim\source\repos\EVIMS\EVIMS\bin\Debug\EVIMS.exe.config
+C:\Users\Jim\source\repos\EVIMS\EVIMS\bin\Debug\EVIMS.exe
+C:\Users\Jim\source\repos\EVIMS\EVIMS\bin\Debug\EVIMS.pdb
+C:\Users\Jim\source\repos\EVIMS\EVIMS\obj\Debug\EVIMS.csproj.AssemblyReference.cache
+C:\Users\Jim\source\repos\EVIMS\EVIMS\obj\Debug\EVIMS.Form1.resources
+C:\Users\Jim\source\repos\EVIMS\EVIMS\obj\Debug\EVIMS.Properties.Resources.resources
+C:\Users\Jim\source\repos\EVIMS\EVIMS\obj\Debug\EVIMS.csproj.GenerateResource.cache
+C:\Users\Jim\source\repos\EVIMS\EVIMS\obj\Debug\EVIMS.csproj.CoreCompileInputs.cache
+C:\Users\Jim\source\repos\EVIMS\EVIMS\obj\Debug\EVIMS.exe
+C:\Users\Jim\source\repos\EVIMS\EVIMS\obj\Debug\EVIMS.pdb
