@@ -1,0 +1,12 @@
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Debug\SlipManagement.csproj.AssemblyReference.cache
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Debug\SlipManagement.AdminForm.resources
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Debug\SlipManagement.LoginForm.resources
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Debug\SlipManagement.Properties.Resources.resources
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Debug\SlipManagement.StudentForm.resources
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Debug\SlipManagement.csproj.GenerateResource.cache
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Debug\SlipManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\bin\Debug\SlipManagement.exe.config
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\bin\Debug\SlipManagement.exe
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\bin\Debug\SlipManagement.pdb
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Debug\SlipManagement.exe
+C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Debug\SlipManagement.pdb
