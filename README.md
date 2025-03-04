@@ -9,6 +9,13 @@ The AAP (Application for Administration and Processing) repository contains mult
 - **EVIMS**: A Windows Forms application for managing voter information, allowing users to add, display, and clear voter records.
 - **Slip Management**: A Windows Forms application for managing student records, including details, grades, and attendance. It provides functionalities for both administrators and students.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Installation
 
 1. Clone the repository.
@@ -24,6 +31,18 @@ The AAP (Application for Administration and Processing) repository contains mult
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
+## Screenshots
+
+Here are some screenshots of the applications:
+
+### EVIMS
+
+![EVIMS Screenshot](path_to_evims_screenshot.png)
+
+### Slip Management
+
+![Slip Management Screenshot](path_to_slip_management_screenshot.png)
 
 ## License
 
