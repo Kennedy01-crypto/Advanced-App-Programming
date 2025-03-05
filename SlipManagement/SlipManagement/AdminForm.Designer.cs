@@ -125,6 +125,7 @@
             this.generateSlipButton.TabIndex = 9;
             this.generateSlipButton.Text = "Generate Slip";
             this.generateSlipButton.UseVisualStyleBackColor = true;
+            this.generateSlipButton.Click += new System.EventHandler(this.generateSlipButton_Click);
             // 
             // logoutButton
             // 
