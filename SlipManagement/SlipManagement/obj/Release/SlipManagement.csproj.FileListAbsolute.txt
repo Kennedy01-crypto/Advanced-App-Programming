@@ -10,3 +10,15 @@ C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Release\SlipManageme
 C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Release\SlipManagement.csproj.CoreCompileInputs.cache
 C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Release\SlipManagement.exe
 C:\Users\Jim\source\repos\SlipManagement\SlipManagement\obj\Release\SlipManagement.pdb
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\bin\Release\SlipManagement.exe.config
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\bin\Release\SlipManagement.exe
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\bin\Release\SlipManagement.pdb
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\obj\Release\SlipManagement.csproj.AssemblyReference.cache
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\obj\Release\SlipManagement.AdminForm.resources
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\obj\Release\SlipManagement.LoginForm.resources
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\obj\Release\SlipManagement.Properties.Resources.resources
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\obj\Release\SlipManagement.StudentForm.resources
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\obj\Release\SlipManagement.csproj.GenerateResource.cache
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\obj\Release\SlipManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\obj\Release\SlipManagement.exe
+C:\Users\Jim\Desktop\Github_Pushes\New folder\Advanced-App-Programming\SlipManagement\SlipManagement\obj\Release\SlipManagement.pdb

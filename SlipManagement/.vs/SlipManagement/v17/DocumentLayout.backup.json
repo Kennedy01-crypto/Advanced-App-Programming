@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|solutionrelative:slipmanagement\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\slipmanagement\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|solutionrelative:slipmanagement\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|c:\\users\\jim\\desktop\\github_pushes\\new folder\\advanced-app-programming\\slipmanagement\\slipmanagement\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|solutionrelative:slipmanagement\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|c:\\users\\jim\\desktop\\github_pushes\\new folder\\advanced-app-programming\\slipmanagement\\slipmanagement\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|solutionrelative:slipmanagement\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|solutionrelative:SlipManagement\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|c:\\users\\jim\\desktop\\github_pushes\\new folder\\advanced-app-programming\\slipmanagement\\slipmanagement\\studentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|solutionrelative:slipmanagement\\studentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\StudentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|solutionrelative:SlipManagement\\StudentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|solutionrelative:SlipManagement\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\slipmanagement\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3240E334-C196-4DCD-A798-5EAEEAA7B5E6}|SlipManagement\\SlipManagement.csproj|solutionrelative:slipmanagement\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,32 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StudentForm.cs",
               "DocumentMoniker": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\StudentForm.cs",
               "RelativeDocumentMoniker": "SlipManagement\\StudentForm.cs",
               "ToolTip": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\StudentForm.cs",
               "RelativeToolTip": "SlipManagement\\StudentForm.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T08:45:17.047Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminForm.cs",
-              "DocumentMoniker": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\AdminForm.cs",
-              "RelativeDocumentMoniker": "SlipManagement\\AdminForm.cs",
-              "ToolTip": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\AdminForm.cs",
-              "RelativeToolTip": "SlipManagement\\AdminForm.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T08:42:21.67Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -67,14 +58,40 @@
               "RelativeDocumentMoniker": "SlipManagement\\AdminForm.Designer.cs",
               "ToolTip": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\AdminForm.Designer.cs",
               "RelativeToolTip": "SlipManagement\\AdminForm.Designer.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:54:23.151Z",
+              "WhenOpened": "2025-03-05T08:11:02.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "SlipManagement\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\LoginForm.Designer.cs",
+              "RelativeToolTip": "SlipManagement\\LoginForm.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:10:39.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\StudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "SlipManagement\\StudentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\StudentForm.Designer.cs",
+              "RelativeToolTip": "SlipManagement\\StudentForm.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:05:00.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Data.cs",
               "DocumentMoniker": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\Data.cs",
               "RelativeDocumentMoniker": "SlipManagement\\Data.cs",
@@ -82,20 +99,20 @@
               "RelativeToolTip": "SlipManagement\\Data.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T08:36:17.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T08:36:17.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\LoginForm.cs",
               "RelativeDocumentMoniker": "SlipManagement\\LoginForm.cs",
               "ToolTip": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\New folder\\Advanced-App-Programming\\SlipManagement\\SlipManagement\\LoginForm.cs",
               "RelativeToolTip": "SlipManagement\\LoginForm.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T08:33:04.613Z"
+              "WhenOpened": "2025-03-04T08:33:04.613Z",
+              "EditorCaption": ""
             }
           ]
         }
