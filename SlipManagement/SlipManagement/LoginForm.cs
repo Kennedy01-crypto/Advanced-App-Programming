@@ -45,6 +45,9 @@ namespace SlipManagement
             MessageBox.Show("Invalid username or password.", "Login Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
+        private void closeButton_Click(object sender, EventArgs e){
+            this.Close();
+        }
         private void LoginForm_Load(object sender, EventArgs e)
         {
 
