@@ -1,0 +1,54 @@
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.exe
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.deps.json
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.runtimeconfig.json
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.dll
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.pdb
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.dll
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\refint\KCAResultSystem.dll
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.pdb
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\ref\KCAResultSystem.dll
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\bin\Debug\net9.0\itextsharp.dll
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\notes\4.2 Business\Advanced Application Programming\CAT2\KCAResultSystem\obj\Debug\net9.0\KCAResul.C6D68733.Up2Date
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.exe
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.deps.json
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.runtimeconfig.json
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.pdb
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\bin\Debug\net9.0\itextsharp.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.csproj.AssemblyReference.cache
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.AssemblyInfo.cs
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\KCAResul.C6D68733.Up2Date
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\refint\KCAResultSystem.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.pdb
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.genruntimeconfig.cache
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\KCAResultSystem\KCAResultSystem\obj\Debug\net9.0\ref\KCAResultSystem.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.exe
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.deps.json
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.runtimeconfig.json
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\bin\Debug\net9.0\KCAResultSystem.pdb
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\bin\Debug\net9.0\itextsharp.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.csproj.AssemblyReference.cache
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.AssemblyInfo.cs
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\KCAResul.C6D68733.Up2Date
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\refint\KCAResultSystem.dll
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.pdb
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\KCAResultSystem.genruntimeconfig.cache
+C:\Users\Jim\Desktop\4.2 Extra\AAP\Systems\CATTwo\KCAResultSystem\obj\Debug\net9.0\ref\KCAResultSystem.dll
