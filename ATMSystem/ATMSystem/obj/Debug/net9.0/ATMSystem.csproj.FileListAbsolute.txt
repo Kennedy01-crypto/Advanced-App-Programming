@@ -1,0 +1,14 @@
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\bin\Debug\net9.0\ATMSystem.exe
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\bin\Debug\net9.0\ATMSystem.deps.json
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\bin\Debug\net9.0\ATMSystem.runtimeconfig.json
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\bin\Debug\net9.0\ATMSystem.dll
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\bin\Debug\net9.0\ATMSystem.pdb
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\obj\Debug\net9.0\ATMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\obj\Debug\net9.0\ATMSystem.AssemblyInfoInputs.cache
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\obj\Debug\net9.0\ATMSystem.AssemblyInfo.cs
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\obj\Debug\net9.0\ATMSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\obj\Debug\net9.0\ATMSystem.dll
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\obj\Debug\net9.0\refint\ATMSystem.dll
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\obj\Debug\net9.0\ATMSystem.pdb
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\obj\Debug\net9.0\ATMSystem.genruntimeconfig.cache
+C:\Users\Jim\source\repos\ATMSystem\ATMSystem\obj\Debug\net9.0\ref\ATMSystem.dll
