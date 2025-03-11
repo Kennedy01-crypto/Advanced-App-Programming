@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jim\\Desktop\\Github_Pushes\\Atm\\ATMSystem\\ATMSystem\\ATMSystem.csproj": {}
+    "C:\\Users\\Jim\\Desktop\\Github_Pushes\\Atm\\Advanced-App-Programming\\ATMSystem\\ATMSystem\\ATMSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jim\\Desktop\\Github_Pushes\\Atm\\ATMSystem\\ATMSystem\\ATMSystem.csproj": {
+    "C:\\Users\\Jim\\Desktop\\Github_Pushes\\Atm\\Advanced-App-Programming\\ATMSystem\\ATMSystem\\ATMSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\Atm\\ATMSystem\\ATMSystem\\ATMSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\Atm\\Advanced-App-Programming\\ATMSystem\\ATMSystem\\ATMSystem.csproj",
         "projectName": "ATMSystem",
-        "projectPath": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\Atm\\ATMSystem\\ATMSystem\\ATMSystem.csproj",
+        "projectPath": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\Atm\\Advanced-App-Programming\\ATMSystem\\ATMSystem\\ATMSystem.csproj",
         "packagesPath": "C:\\Users\\Jim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\Atm\\ATMSystem\\ATMSystem\\obj\\",
+        "outputPath": "C:\\Users\\Jim\\Desktop\\Github_Pushes\\Atm\\Advanced-App-Programming\\ATMSystem\\ATMSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
