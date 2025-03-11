@@ -17,7 +17,7 @@ The ATM Management System is a console application that simulates the operations
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ATMManagementSystem.git
+   git clone https://github.com/Kennedy01-crypto/ATMManagementSystem.git
    ```
 2. Navigate to the project directory:
    ```bash
