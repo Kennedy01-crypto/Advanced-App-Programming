@@ -20,6 +20,17 @@ public class User
     }
 
 }
+public class AdminUser
+{
+    public string Username { get; set; }
+    public string Password { get; set; }
+
+    public AdminUser(string username, string password)
+    {
+        Username = username;
+        Password = password;
+    }
+}
 
 public class Transaction
 {
@@ -39,8 +50,8 @@ public class Transaction
 
 public class Admin
 {
+    AdminUser admin = new AdminUser("MyAdmin", "1234");
     public List<User> users = new List<User>();
-
     public void AddUser(User user)
     {
         users.Add(user);
@@ -50,29 +61,144 @@ public class Admin
     {
         return users;
     }
-    public void DeleteUser(string username)
+    public void Login()
     {
-        users.RemoveAll(u => u.Username == username);
+        Console.Write("Enter Admin Username: ");
+        string username = Console.ReadLine();
+        Console.Write("Enter password: ");
+        string password = Console.ReadLine();
+
+        // var adminuser = AdminUser.Find(u => u.Username == username && u.Password == password);
+        if (admin.Username == username && admin.Password == password)
+        {
+            Console.WriteLine("Login successful!");
+            // AdminOperations();
+        }
+        else
+        {
+            Console.WriteLine("Enter Correct Admin Account");
+        }
     }
 
-    public void EditUser(string username, string newPassword, string newAccountType)
+    public void AdminOperations()
     {
+        bool exit = false;
+        while (!exit)
+        {
+            Console.WriteLine("Select operation: \n1. Add User \n2. Delete User  \n3. Edit User \n4. suspend User \n5. View All Users \n6. Exit");
+            string choice = Console.ReadLine();
+            switch (choice)
+            {
+                case "1":
+                    Console.Write("1 should happen \n");
+                    // AddUserInteractive(user);
+                    break;
+                case "2":
+                    Console.Write("2 should happen \n");
+                    DeleteUserInteractive();
+                    break;
+                case "3":
+                    EditUserInteractive();
+                    break;
+                case "4":
+                    SuspendUserInteractive();
+                    break;
+                case "5":
+                    // ViewAllUsers(<User>);
+                    break;
+                case "6":
+                    exit = true;
+                    break;
+                default:
+                    Console.WriteLine("Invalid choice. Please try again.");
+                    break;
+            }
+        }
+    }
+    private void AddUserInteractive(User user)
+    {
+        Console.Write("Enter username: ");
+        string username = Console.ReadLine();
+        Console.Write("Enter password: ");
+        string password = Console.ReadLine();
+        Console.Write("Enter account type: ");
+        string accountType = Console.ReadLine();
+
+        // users.Add(new User { Username = username, Password = password, AccountType = accountType, Balance = balance });
+        // Console.WriteLine($"User '{Username}' added successfully.");
+    }
+    // public void DeleteUser(User user)
+    // {
+    //     users.RemoveAll(u => u.Username == username);
+    // }
+    private void DeleteUserInteractive()
+    {
+        Console.Write("Enter the username to delete: ");
+        string username = Console.ReadLine();
+        if (username != null)
+        {
+            users.RemoveAll(u => u.Username == username);
+            Console.WriteLine($"User '{username}' deleted successfully.");
+        }
+        else
+        {
+            Console.WriteLine($"User '{username}' not found.");
+        }
+    }
+        private void EditUserInteractive()
+    {
+        Console.Write("Enter the username to edit: ");
+        string username = Console.ReadLine();
+        Console.Write("Enter new password: ");
+        string newPassword = Console.ReadLine();
+        Console.Write("Enter new account type: ");
+        string newAccountType = Console.ReadLine();
+
         var user = users.Find(u => u.Username == username);
         if (user != null)
         {
             user.Password = newPassword;
             user.AccountType = newAccountType;
         }
+        else
+        {
+            Console.WriteLine($"User '{username}' not found.");
+        }
     }
 
-    public void SuspendUser(string username)
+    private void SuspendUserInteractive()
     {
+        Console.Write("Enter the username to suspend: ");
+        string username = Console.ReadLine();
         var user = users.Find(u => u.Username == username);
         if (user != null)
         {
             user.IsSuspended = true;
         }
+        else
+        {
+            Console.WriteLine($"User '{username}' not found.");
+        }
     }
+
+    // public void EditUser(string username, string newPassword, string newAccountType)
+    // {
+    //     var user = users.Find(u => u.Username == username);
+    //     if (user != null)
+    //     {
+    //         user.Password = newPassword;
+    //         user.AccountType = newAccountType;
+    //     }
+    // }
+
+    // public void SuspendUser(string username)
+    // {
+    //     var user = users.Find(u => u.Username == username);
+    //     if (user != null)
+    //     {
+    //         user.IsSuspended = true;
+    //     }
+    // }
 
     public void UnsuspendUser(string username)
     {
@@ -83,13 +209,13 @@ public class Admin
         }
     }
 
-    public void ViewAllUsers()
-    {
-        foreach (var user in users)
-        {
-            Console.WriteLine($"Username: {user.Username}, Account Type: {user.AccountType}, Balance: {user.Balance}, Suspended: {user.IsSuspended}");
-        }
-    }
+    // public void ViewAllUsers(List<User>)
+    // {
+    //     foreach (var user in users)
+    //     {
+    //         Console.WriteLine($"Username: {user.Username}, Account Type: {user.AccountType}, Balance: {user.Balance}, Suspended: {user.IsSuspended}");
+    //     }
+    // }
 }
 
 public class ATM
@@ -226,16 +352,24 @@ class Program
         ATM atm = new ATM(admin.GetUsers());
 
         // Sample users
-        User user1 = new User("Admin", "123", "Savings", 10000);
+        User user1 = new User("Jim", "123", "Savings", 10000);
         User user2 = new User("smith", "456", "Fixed Deposit", 20000);
         admin.AddUser(user1);
         admin.AddUser(user2);
 
-        // atm.users = admin.GetUsers();
         // Admin operations
-        admin.ViewAllUsers();
+        // admin.ViewAllUsers();
 
         // User login
-        atm.Login();
+        Console.Write("Enter Role(Admin/User): ");
+        string role = Console.ReadLine();
+
+        if(role == "Admin")
+        {
+            admin.Login();
+        }
+        else{
+            atm.Login();
+        }
     }
 }
