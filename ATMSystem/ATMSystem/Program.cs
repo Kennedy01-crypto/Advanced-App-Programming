@@ -131,7 +131,7 @@ public class ATM
         bool exit = false;
         while (!exit)
         {
-            Console.WriteLine("Select operation: \n1. Deposit \n2. Withdraw \n3. Transfer \n4. Check Balance \n5. Exit");
+            Console.WriteLine("Select operation: \n1. Deposit \n2. Withdraw \n3. Transfer \n4. Check Balance \n5. View Transactions \n6. Exit");
             string choice = Console.ReadLine();
             switch (choice)
             {
@@ -148,6 +148,9 @@ public class ATM
                     checkBalance(user);
                     break;
                 case "5":
+                    ViewTransactionLogs(user);
+                    break;
+                case "6":
                     exit = true;
                     break;
                 default:
@@ -205,11 +208,11 @@ public class ATM
         }
     }
 
-    public void ViewTransactionLogs()
+    public void ViewTransactionLogs(User user)
     {
         foreach (var transaction in transactions)
         {
-            Console.WriteLine($"Date: {transaction.Date}, Amount: {transaction.Amount}, Account Type: {transaction.AccountType}, Transaction Type: {transaction.TransactionType}");
+            Console.WriteLine($"Date: {transaction.Date}, \nAmount: {transaction.Amount}, \nAccount Type: {transaction.AccountType}, \nTransaction Type: {transaction.TransactionType} \n---------------------------------------------");
         }
     }
 }
