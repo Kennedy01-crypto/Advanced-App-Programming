@@ -2,14 +2,14 @@
 
 ## Description
 
-The AAP (Application for Administration and Processing) repository contains multiple Windows Forms applications designed to manage various types of records efficiently. The current projects include a Voter Management System (EVIMS), a Student Record Management System (Slip Management), an ATM Management System, a KCA Result System, and a Library Management System.
+The AAP (Advanced Application Programming) repository contains multiple Windows Forms applications and console applications designed to manage various types of records efficiently. The current projects include a Voter Management System (EVIMS), a Student Record Management System (Slip Management), an ATM Management System, a KCA Result System, and a Library Management System.
 
 ## Projects
 
 - **EVIMS**: A Windows Forms application for managing voter information, allowing users to add, display, and clear voter records.
 - **Slip Management**: A Windows Forms application for managing student records, including details, grades, and attendance. It provides functionalities for both administrators and students.
 - **ATMSystem**: A console application that simulates the operations of an Automated Teller Machine (ATM). It allows users to perform various banking tasks.
-- **KCA Result System**: A Windows Forms application designed to manage student results, including installation instructions for required packages.
+- **KCA Result System**: A console application designed to manage student results, including installation instructions for required packages.
 - **LibraryApp**: A Windows Forms application for managing library records, with prerequisites for .NET 6.0 or later.
 
 ## Table of Contents
