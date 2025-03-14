@@ -287,7 +287,8 @@ public class ATM
     }
     public void checkBalance(User user)
     {
-        Console.WriteLine($"Your balance is: {user.Balance}");
+        Console.WriteLine($"Your balance is: KSH. {user.Balance}");
+        Console.WriteLine("*****************************************");
     }
     public void Deposit(User user)
     {
@@ -295,7 +296,8 @@ public class ATM
         decimal amount = Convert.ToDecimal(Console.ReadLine());
         user.Balance += amount;
         transactions.Add(new Transaction(amount, user.AccountType, "Deposit"));
-        Console.WriteLine($"Deposited {amount} to {user.Username}'s account. \nBook Balance: KSH{user.Balance}");
+        Console.WriteLine($"Deposited {amount} to {user.Username}'s account. \nBook Balance: KSH. {user.Balance}");
+        Console.WriteLine("*****************************************");
     }
 
     public void Withdraw(User user)
@@ -306,11 +308,13 @@ public class ATM
         {
             user.Balance -= amount;
             transactions.Add(new Transaction(amount, user.AccountType, "Withdrawal"));
-            Console.WriteLine($"Withdrew {amount} from {user.Username}'s account. \nBook Balance: KSH.{user.Balance}");
+            Console.WriteLine($"Withdrew {amount} from {user.Username}'s account. \nBook Balance: KSH. {user.Balance}");
+            Console.WriteLine("*****************************************");
         }
         else
         {
             Console.WriteLine("Withdrawal exceeds daily limit or insufficient funds.");
+            Console.WriteLine("*****************************************");
         }
     }
 
@@ -326,11 +330,13 @@ public class ATM
             fromUser.Balance -= amount;
             toUser.Balance += amount;
             transactions.Add(new Transaction(amount, fromUser.AccountType, "Transfer"));
-            Console.WriteLine($"Transferred KSH.{amount} from {fromUser.Username} to {toUser.Username}.");
+            Console.WriteLine($"Transferred KSH. {amount} from {fromUser.Username} to {toUser.Username}.\nBook Balance: KSH. {fromUser.Balance}");
+            Console.WriteLine("*****************************************");
         }
         else
         {
             Console.WriteLine("Transfer exceeds daily limit or insufficient funds.");
+            Console.WriteLine("*****************************************");
         }
     }
 
