@@ -291,22 +291,22 @@ public class ATM
     }
     public void Deposit(User user)
     {
-        Console.Write("Enter amount to deposit: ");
+        Console.Write("Enter amount to deposit(KSH): ");
         decimal amount = Convert.ToDecimal(Console.ReadLine());
         user.Balance += amount;
         transactions.Add(new Transaction(amount, user.AccountType, "Deposit"));
-        Console.WriteLine($"Deposited {amount} to {user.Username}'s account. \nBook Balance: {user.Balance}");
+        Console.WriteLine($"Deposited {amount} to {user.Username}'s account. \nBook Balance: KSH{user.Balance}");
     }
 
     public void Withdraw(User user)
     {
-        Console.Write("Enter amount to withdraw: ");
+        Console.Write("Enter amount to withdraw(KSH): ");
         decimal amount = Convert.ToDecimal(Console.ReadLine());
         if (amount <= DailyLimit && user.Balance >= amount)
         {
             user.Balance -= amount;
             transactions.Add(new Transaction(amount, user.AccountType, "Withdrawal"));
-            Console.WriteLine($"Withdrew {amount} from {user.Username}'s account. \nBook Balance: {user.Balance}");
+            Console.WriteLine($"Withdrew {amount} from {user.Username}'s account. \nBook Balance: KSH.{user.Balance}");
         }
         else
         {
@@ -326,7 +326,7 @@ public class ATM
             fromUser.Balance -= amount;
             toUser.Balance += amount;
             transactions.Add(new Transaction(amount, fromUser.AccountType, "Transfer"));
-            Console.WriteLine($"Transferred {amount} from {fromUser.Username} to {toUser.Username}.");
+            Console.WriteLine($"Transferred KSH.{amount} from {fromUser.Username} to {toUser.Username}.");
         }
         else
         {
