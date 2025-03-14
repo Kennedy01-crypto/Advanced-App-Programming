@@ -240,6 +240,7 @@ public class ATM
         if (user != null && !user.IsSuspended)
         {
             Console.WriteLine("Login successful!");
+            Console.WriteLine("*****************************************");
             UserOperations(user);
         }
         else if(user != null && user.IsSuspended)
